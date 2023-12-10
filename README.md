@@ -6,6 +6,7 @@
 - prometheus: Metrics collector
 - node_exporter: Host metrics exporter
 - cadvisor: Docker containers metrics exporter
+- dex (replace cadvisor): <https://github.com/0xERR0R/dex>
 - telegraf: Nginx metrics exporter and logs parser
 
 ### References
